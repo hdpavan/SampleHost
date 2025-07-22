@@ -1,37 +1,37 @@
 {
   "data": {
-    "id": 15,
+    "id": 17,
     "documentId": "kis6pwrll3s2ckn0plapylfb",
     "createdAt": "2025-07-15T05:19:25.960Z",
-    "updatedAt": "2025-07-22T04:07:54.095Z",
-    "publishedAt": "2025-07-22T04:07:54.117Z",
+    "updatedAt": "2025-07-22T04:16:35.491Z",
+    "publishedAt": "2025-07-22T04:16:35.502Z",
     "DynamicZone": [
       {
         "__component": "banner.gallery",
-        "id": 22,
+        "id": 24,
         "text": "Helloworld",
         "number": 5
       },
       {
         "__component": "text-component.text-component",
-        "id": 17,
+        "id": 21,
         "TextComponent": "Helloworld",
         "TextComponentOne": "Helloworld",
         "ShortText": "Helloworld"
       },
       {
         "__component": "text-component.text-component",
-        "id": 18,
+        "id": 22,
         "TextComponent": "Strapi Title",
         "TextComponentOne": "Strapi Title01",
         "ShortText": "Strapi Title 02"
       },
       {
         "__component": "short-matrix.short-matrix",
-        "id": 3,
-        "Title": null,
-        "Subtitle": null,
-        "components": [
+        "id": 5,
+        "Title": "title",
+        "Subtitle": "subtitle",
+        "items": [
           {
             "textField": "Skincare",
             "redirectUrl": "https://palettepreprod2.tataunistore.com/p-mp000000007303698"
@@ -55,14 +55,6 @@
           {
             "textField": "Field",
             "redirectUrl": "https://palettepreprod2.tataunistore.com/explore/lipstick"
-          },
-          {
-            "textField": "Lakme",
-            "redirectUrl": "https://palettepreprod2.tataunistore.com/search/result?searchCategory=all&text=lipstick:relevance:inStockFlag:true:isLuxuryProduct:false:&isSuggested=false&isKeywordRedirectEnabled=true&source=search%20(4)"
-          },
-          {
-            "textField": "Skinn",
-            "redirectUrl": "https://palettepreprod2.tataunistore.com/search/result?searchCategory=all&text=lipstick:relevance:inStockFlag:true:isLuxuryProduct:false:&isSuggested=false&isKeywordRedirectEnabled=true&source=search%20(4)"
           },
           {
             "textField": "MAC",
